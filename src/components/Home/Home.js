@@ -6,8 +6,7 @@ import ReviewItem from "../ReviewItem/ReviewItem";
 
 const Home = () => {
   const [reviews] = useReviews();
-  //   const sliceReviews = reviews.slice(0, 3);
-  //   console.log(sliceReviews);
+  const sliceReviews = reviews.slice(0, 3);
   return (
     <>
       <div className="home pt-5">
@@ -34,10 +33,10 @@ const Home = () => {
       <div className="review pb-5">
         <div className="review container mt-5">
           <h2 className="text-center mb-5">
-            Customer Reviews ({reviews.length})
+            Customer Reviews ({sliceReviews.length})
           </h2>
           <div className="row">
-            {reviews.slice(0, 3).map((review) => (
+            {sliceReviews.map((review) => (
               <ReviewItem key={review.id} review={review} />
             ))}
           </div>

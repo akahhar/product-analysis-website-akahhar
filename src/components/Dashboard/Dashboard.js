@@ -6,13 +6,13 @@ const Dashboard = () => {
   return (
     <div className="container mt-5 pt-5">
       <div className="row">
-        <div className="col-xl-6">
+        <div className="col-xl-6 col-md-6">
           <IncomeChart />
         </div>
-        <div className="col-xl-6">
+        <div className="col-xl-6 col-md-6">
           <TinyBarChart />
         </div>
-        <div className="col-xl-6">
+        <div className="col-xl-6 col-md-6">
           <LinesChart />
         </div>
       </div>

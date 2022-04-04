@@ -12,7 +12,7 @@ const Home = () => {
       <div className="home pt-5">
         <div className="container">
           <div className="row">
-            <div className="col-xl-6 d-flex">
+            <div className="col-xl-6 col-md-6 d-flex">
               <div className="left pt-5 mb-5 pe-5">
                 <h3>Tomatoes, Online & Garlic</h3>
                 <p className="pe-5">
@@ -22,7 +22,7 @@ const Home = () => {
                 <button className="btn">Shop now</button>
               </div>
             </div>
-            <div className="col-xl-6">
+            <div className="col-xl-6 col-md-6">
               <div className="right pt-5 mb-5">
                 <img src={SliderImage} alt="" />
               </div>

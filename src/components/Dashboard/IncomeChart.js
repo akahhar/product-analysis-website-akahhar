@@ -52,7 +52,6 @@ const data = [
 const IncomeChart = () => {
   return (
     <>
-      <h4>This is Chart Page</h4>
       <ComposedChart
         width={500}
         height={400}

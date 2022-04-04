@@ -33,7 +33,7 @@ const Home = () => {
       </div>
       <div className="review pb-5">
         <div className="review container mt-5">
-          <h2 className="text-center mb-4">
+          <h2 className="text-center mb-5">
             Customer Reviews ({reviews.length})
           </h2>
           <div className="row">

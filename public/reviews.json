@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "name": "Hattie M. Fleming",
+        "content" : "Amazon is the largest online e-commerce. As you probably know, Amazon is a well-known forerunner of e-commerce",
+        "ratings" : "5 star",
+        "image" : "http://themes.pixelstrap.com/multikart/assets/images/avtar.jpg"
+        
+    },
+    {
+        "id": "2",
+        "name": "Thomas Watson",
+        "content" : "Great site will not sell an inferior product, but it will enable a great product to achieve its maximum potential.",
+        "ratings" : "5 star",
+        "image" : "http://themes.pixelstrap.com/multikart/assets/images/2.jpg"
+        
+    },
+    {
+        "id": "3",
+        "name": "Mark Jecno",
+        "content" : "Good products can be sold by honest advertising. If you don’t think the product is good, you have no business.",
+        "ratings" : "5 star",
+        "image" : "http://themes.pixelstrap.com/multikart/assets/images/2.jpg"
+        
+    },
+    {
+        "id": "4",
+        "name": "Alan Cumming",
+        "content" : "My feeling about work is it’s much more about the experience of doing is than the end product. ",
+        "ratings" : "5 star",
+        "image" : "http://themes.pixelstrap.com/multikart/assets/images/avtar.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Jack Welch",
+        "content" : "Shareholder value is a result, not a strategy Your main constituencies are your employees, your customers ",
+        "ratings" : "5 star",
+        "image" : "http://themes.pixelstrap.com/multikart/assets/images/2.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Ross Perot",
+        "content" : "We experiment endlessly, with new products, new companies and new marketing. A successful business the emphasis ",
+        "ratings" : "5 star",
+        "image" : "http://themes.pixelstrap.com/multikart/assets/images/2.jpg"
+    }
+]

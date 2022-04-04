@@ -4,7 +4,7 @@ import "./Header.css";
 
 const Header = () => {
   return (
-    <header className="text-center mt-3">
+    <header className="text-center mt-5">
       <nav>
         <ul>
           <li>
